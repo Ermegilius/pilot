@@ -13,10 +13,10 @@ just a text about smth.
 - list item 3;
 - ...
 
-... js
+```js
 let name = "Vladimir";
 alert(name);
-...
+```
 
 #### fourth headline
 
