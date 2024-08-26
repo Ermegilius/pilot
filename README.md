@@ -6,9 +6,6 @@ just a text about smth.
 
 ### third headline
 
-- list item 1;
-- list item 2;
-
 1. foxes
 1. foxes?
 1. foxes!
@@ -27,3 +24,6 @@ this text will be **bald**
 to highlite the text use `backtick`
 
 :relieved:
+
+- list item 1;
+- list item 2;
